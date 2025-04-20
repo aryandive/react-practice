@@ -34,4 +34,4 @@ function Character() {
   )
 }
 
-export default Character
+export default Character 
